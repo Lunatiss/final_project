@@ -23,13 +23,12 @@ For the scrip about web scrapping of Zara: [click here](notebook_web_scraping.ip
 Since the data was obtained through web scraping, the cleaning process was quite complex. 
 Specifically, there was a column containing lists, which required special handling. We created a function to iterate over all the elements of these lists, access their components, transform them into strings, and then assign the relevant information to new columns:
 **3.1. All the information was over Description Column (correponding on section view more in the web)**:
-**Made_in**: Extracted the origin of the products from the description.
-**Materials**: Separated the materials of the cloth such as cotton, polyamide, polyester, etc.
-**Recycled Materials**: Further separated into categories like recycled cotton, recycled polyester, recycled polyamide, etc.
-**Percentage Composition**: Assigned the percentage of each material's composition in accordance with each row.
-**OCS and RCS**: Created columns for OCS (Organic Content Standard) and RCS (Recycled Content Standard) based on the descriptions obtained during scraping.
-**Keep only necessary columns for analysis and change columns names.**
-
+- **Made_in**: Extracted the origin of the products from the description.
+- **Materials**: Separated the materials of the cloth such as cotton, polyamide, polyester, etc.
+- **Recycled Materials**: Further separated into categories like recycled cotton, recycled polyester, recycled polyamide, etc.
+- **Percentage Composition**: Assigned the percentage of each material's composition in accordance with each row.
+- **OCS and RCS**: Created columns for OCS (Organic Content Standard) and RCS (Recycled Content Standard) based on the descriptions obtained during scraping.
+- 
 ### 3.2 Keeping Necessary Columns and Renaming
 - Only the necessary columns for analysis were retained and renamed for clarity and consistency.
 
