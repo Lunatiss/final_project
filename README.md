@@ -5,16 +5,15 @@
 > _A case study on ZARA's sustainability practices._
 ----
 
-## 1. Libraries and Data used:
-1.1 Libraries: <br>
-    - selenium <br>
-    - beautiful soap <br>
-    - datetime <br>
-    - pandas <br>
-    - seaborn <br>
-    - matplotlib <br>
-    - numpy <br>
-    - warnings <br>
+## 1. Libraries:
+- `selenium`
+- `beautifulsoup`
+- `datetime`
+- `pandas`
+- `seaborn`
+- `matplotlib`
+- `numpy`
+- `warnings`
 
 ## 2. Data source:
 Web scraping on ZARA's website using selenium for dinamic webpage. Click here to see the raw data: [data/raw](data/raw)
