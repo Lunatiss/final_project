@@ -1,5 +1,4 @@
-![Descripción opcional](img/_ (5).jpeg)
-
+![nombreDeLaFoto](img/_ (5).png)
 
 # Toward Sustainable Fashion?
 > _A case study on ZARA's sustainability practices._
