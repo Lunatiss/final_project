@@ -1,0 +1,268 @@
+,index,product_name,price,detail,year_purchase
+0,0,Vestido,"14,00                                          ",Como nuevo                                    , 2022                                             
+1,1,Otros,"29,95                                          ",Nuevo con etiquetas                           , 2023                                             
+2,2,Camiseta,"9,00                                           ",Como nuevo                                    , 2023                                             
+3,3,Pantalon,"10,00                                          ",Como nuevo                                    , 2020                                             
+4,4,Otros,"9,9                                            ",Como nuevo                                    ,                                                  
+5,5,Bolso,"15,00                                          ",Como nuevo                                    , 2023                                             
+6,6,Jeans,"8,00                                           ",Nuevo con etiquetas                           ,                                                  
+7,7,Vestido,"22,95                                          ",Nuevo con etiquetas                           ,                                                  
+8,8,Otros,"12,00                                          ",Nuevo con etiquetas                           , 2023                                             
+9,9,Vestido,"23,00                                          ",Nuevo con etiquetas                           , 2023                                             
+10,10,Calzado,"20,00                                          ",Nuevo con etiquetas                           ,                                                  
+11,11,Mono,"19,95                                          ",Nuevo con etiquetas                           ,                                                  
+12,12,Otros,"14,00                                          ",Nuevo con etiquetas                           ,                                                  
+13,13,Top,"15,00                                          ",Nuevo con etiquetas                           ,                                                  
+14,14,Pantalon,"28,00                                          ",Nuevo con etiquetas                           , 2024                                             
+15,15,Vestido,"26,00                                          ",Como nuevo                                    , 2022                                             
+16,16,Otros,"6,71                                           ",Bueno                                         , 2019                                             
+17,17,Top,"5,00                                           ",Nuevo con etiquetas                           ,                                                  
+18,18,Pantalon,"7,00                                           ",Como nuevo                                    ,                                                  
+19,19,Top,"22,00                                          ",Nuevo con etiquetas                           ,                                                  
+20,20,Otros,"15,00                                          ",Nuevo con etiquetas                           , 2024                                             
+21,21,Top,"10,00                                          ",Bueno                                         , 2023                                             
+22,22,Falda,"20,00                                          ",Nuevo con etiquetas                           , 2023                                             
+23,23,Vestido,"30,00                                          ",Nuevo con etiquetas                           , 2023                                             
+24,24,Calzado,"30,00                                          ",Nuevo con etiquetas                           ,                                                  
+25,25,Vestido,"25,00                                          ",Nuevo con etiquetas                           ,                                                  
+26,26,Calzado,"25,00                                          ",Como nuevo                                    , 2023                                             
+27,27,Otros,"5,00                                           ",Bueno                                         ,                                                  
+28,28,Pantalon,"19,00                                          ",Nuevo con etiquetas                           , 2023                                             
+29,29,Vestido,"10,00                                          ",Como nuevo                                    ,                                                  
+30,30,Otros,"6,00                                           ",Nuevo con etiquetas                           , 2024                                             
+31,31,Bolso,"15,00                                          ",Como nuevo                                    , 2020                                             
+32,32,Top,"10,00                                          ",Nuevo con etiquetas                           ,                                                  
+33,33,Pantalon,"20,00                                          ",Como nuevo                                    , 2024                                             
+34,34,Pantalon,"20,00                                          ",Nuevo con etiquetas                           , 2024                                             
+35,35,Vestido,"15,00                                          ",Como nuevo                                    , 2023                                             
+36,36,Top,"15,95                                          ",Nuevo con etiquetas                           ,                                                  
+37,37,Pantalon,"15,00                                          ",Como nuevo                                    ,                                                  
+38,38,Vestido,"24,00                                          ",Como nuevo                                    , 2024                                             
+39,39,Calzado,"25,00                                          ",Como nuevo                                    , 2023                                             
+40,40,Top,"45,00                                          ",Como nuevo                                    , 2023                                             
+41,41,Otros,"10,00                                          ",Bueno                                         ,                                                  
+42,42,Camiseta,"6,95                                           ",Nuevo con etiquetas                           , 2023                                             
+43,43,Vestido,"7,00                                           ",Bueno                                         ,                                                  
+44,44,Bolso,"20,00                                          ",Como nuevo                                    , 2023                                             
+45,45,Otros,"42,9                                           ",Como nuevo                                    ,                                                  
+46,46,Calzado,"17,00                                          ",Nuevo con etiquetas                           ,                                                  
+47,47,Otros,"9,00                                           ",Como nuevo                                    , 2023                                             
+48,48,Top,"10,00                                          ",Como nuevo                                    , 2023                                             
+49,49,Calzado,"16,00                                          ",Nuevo con etiquetas                           , 2023                                             
+50,50,Calzado,"15,00                                          ",Como nuevo                                    ,                                                  
+51,51,Top,"16,00                                          ",Como nuevo                                    ,                                                  
+52,52,Jeans,"20,00                                          ",Como nuevo                                    ,                                                  
+53,53,Bolso,"18,00                                          ",Como nuevo                                    ,                                                  
+54,54,Jersey,"15,00                                          ",Como nuevo                                    , 2023                                             
+55,55,Top,"14,00                                          ",Nuevo con etiquetas                           , 2023                                             
+56,56,Vestido,"20,00                                          ",Como nuevo                                    ,                                                  
+57,57,Calzado,"60,00                                          ",Como nuevo                                    , 2022                                             
+58,58,Camisa,"12,00                                          ",Nuevo con etiquetas                           , 2023                                             
+59,59,Otros,"10,00                                          ",Como nuevo                                    ,                                                  
+60,60,Vestido,"35,95                                          ",Nuevo con etiquetas                           , 2023                                             
+61,61,Calzado,"40,00                                          ",Nuevo con etiquetas                           ,                                                  
+62,62,Top,"12,00                                          ",Nuevo con etiquetas                           , 2023                                             
+63,63,Otros,"18,00                                          ",Como nuevo                                    ,                                                  
+64,64,Jeans,"8,00                                           ",Bueno                                         ,                                                  
+65,65,Top,"7,00                                           ",Como nuevo                                    ,                                                  
+66,66,Otros,"12,00                                          ",Como nuevo                                    ,                                                  
+67,67,Calzado,"35,00                                          ",Como nuevo                                    , 2023                                             
+68,68,Chaqueta,"28,00                                          ",Satisfactorio                                 , 2022                                             
+69,69,Jeans,"8,00                                           ",Como nuevo                                    ,                                                  
+70,70,Vestido,"19,9                                           ",Nuevo con etiquetas                           ,                                                  
+71,71,Otros,"15,00                                          ",Como nuevo                                    , 2023                                             
+72,72,Otros,"12,00                                          ",Nuevo con etiquetas                           ,                                                  
+73,73,Otros,"15,99                                          ",Nuevo con etiquetas                           ,                                                  
+74,74,Vestido,"27,00                                          ",Nuevo con etiquetas                           , 2023                                             
+75,75,Jeans,"29,95                                          ",Nuevo con etiquetas                           , 2023                                             
+76,76,Calzado,"25,00                                          ",Bueno                                         , 2023                                             
+77,77,Top,"25,00                                          ",Nuevo con etiquetas                           , 2023                                             
+78,78,Falda,"17,00                                          ",Como nuevo                                    ,                                                  
+79,79,Vestido,"18,00                                          ",Como nuevo                                    ,                                                  
+80,80,Bolso,"30,00                                          ",Como nuevo                                    ,                                                  
+81,81,Otros,"15,00                                          ",Nuevo con etiquetas                           ,                                                  
+82,82,Calzado,"49,00                                          ",Nuevo con etiquetas                           , 2024                                             
+83,83,Bolso,"19,95                                          ",Como nuevo                                    ,                                                  
+84,84,Otros,"15,00                                          ",Como nuevo                                    , 2022                                             
+85,85,Camiseta,"10,00                                          ",Como nuevo                                    ,                                                  
+86,86,Falda,"15,00                                          ",Como nuevo                                    , 2023                                             
+87,87,Mono,"22,00                                          ",Nuevo con etiquetas                           ,                                                  
+88,88,Calzado,"18,00                                          ",Como nuevo                                    , 2023                                             
+89,89,Chaqueta,"25,00                                          ",Como nuevo                                    ,                                                  
+90,90,Vestido,"13,00                                          ",Nuevo con etiquetas                           ,                                                  
+91,91,Calzado,"29,00                                          ",Nuevo con etiquetas                           , 2023                                             
+92,92,Camisa,"16,00                                          ",Nuevo con etiquetas                           ,                                                  
+93,93,Falda,"25,00                                          ",Como nuevo                                    , 2023                                             
+94,94,Vestido,"20,00                                          ",Nuevo con etiquetas                           ,                                                  
+95,95,Otros,"10,00                                          ",Como nuevo                                    , 2023                                             
+96,96,Otros,"5,00                                           ",Nuevo con etiquetas                           , 2023                                             
+97,97,Vestido,"20,00                                          ",Como nuevo                                    ,                                                  
+98,98,Calzado,"39,00                                          ",Nuevo con etiquetas                           , 2023                                             
+99,99,Pantalon,"10,00                                          ",Bueno                                         ,                                                  
+100,100,Vestido,"35,00                                          ",Como nuevo                                    , 2023                                             
+101,101,Bolso,"15,00                                          ",Bueno                                         ,                                                  
+102,102,Falda,"8,00                                           ",Nuevo con etiquetas                           ,                                                  
+103,103,Otros,"6,71                                           ",Como nuevo                                    , 2023                                             
+104,104,Vestido,"49,95                                          ",Nuevo con etiquetas                           ,                                                  
+105,105,Calzado,"20,00                                          ",Nuevo con etiquetas                           ,                                                  
+106,106,Vestido,"39,00                                          ",Nuevo con etiquetas                           ,                                                  
+107,107,Otros,"10,00                                          ",Nuevo con etiquetas                           ,                                                  
+108,108,Otros,"25,00                                          ",Como nuevo                                    , 2023                                             
+109,109,Calzado,"45,00                                          ",Nuevo con etiquetas                           , 2024                                             
+110,110,Vestido,"25,00                                          ",Nuevo con etiquetas                           ,                                                  
+111,111,Bolso,"22,00                                          ",Bueno                                         , 2023                                             
+112,112,Top,"15,00                                          ",Como nuevo                                    , 2023                                             
+113,113,Jeans,"17,00                                          ",Bueno                                         ,                                                  
+114,114,Jeans,"16,00                                          ",Como nuevo                                    , 2024                                             
+115,115,Calzado,"35,99                                          ",Nuevo con etiquetas                           ,                                                  
+116,116,Chaqueta,"15,00                                          ",Satisfactorio                                 , 2018                                             
+117,117,Otros,"12,00                                          ",Nuevo con etiquetas                           , 2023                                             
+118,118,Camisa,"15,00                                          ",Como nuevo                                    ,                                                  
+119,119,Pantalon,"30,00                                          ",Nuevo con etiquetas                           ,                                                  
+120,120,Top,"15,00                                          ",Como nuevo                                    , 2023                                             
+121,121,Pantalon,"35,00                                          ",Nuevo con etiquetas                           , 2023                                             
+122,122,Bolso,"19,9                                           ",Como nuevo                                    ,                                                  
+123,123,Vestido,"17,00                                          ",Como nuevo                                    , 2023                                             
+124,124,Falda,"10,00                                          ",Como nuevo                                    ,                                                  
+125,125,Vestido,"29,00                                          ",Nuevo con etiquetas                           , 2024                                             
+126,126,Otros,"20,00                                          ",Nuevo con etiquetas                           ,                                                  
+127,127,Top,"29,00                                          ",Nuevo con etiquetas                           , 2023                                             
+128,128,Vestido,"24,95                                          ",Nuevo con etiquetas                           , 2023                                             
+129,129,Vestido,"10,00                                          ",Como nuevo                                    ,                                                  
+130,130,Calzado,"20,00                                          ",Nuevo con etiquetas                           , 2023                                             
+131,131,Blazer,"14,00                                          ",Como nuevo                                    ,                                                  
+132,132,Vestido,"25,00                                          ",Nuevo con etiquetas                           ,                                                  
+133,133,Calzado,"50,00                                          ",Nuevo con etiquetas                           ,                                                  
+134,134,Vestido,"15,00                                          ",Como nuevo                                    , 2021                                             
+135,135,Bolso,"45,00                                          ",Nuevo con etiquetas                           ,                                                  
+136,136,Vestido,"12,00                                          ",Bueno                                         ,                                                  
+137,137,Otros,"12,00                                          ",Como nuevo                                    ,                                                  
+138,138,Vestido,"10,00                                          ",Como nuevo                                    ,                                                  
+139,139,Otros,"20,00                                          ",Nuevo con etiquetas                           ,                                                  
+140,140,Pantalon,"27,00                                          ",Nuevo con etiquetas                           , 2024                                             
+141,141,Top,"10,00                                          ",Como nuevo                                    ,                                                  
+142,142,Otros,"10,00                                          ",Nuevo con etiquetas                           ,                                                  
+143,143,Otros,"16,00                                          ",Como nuevo                                    , 2023                                             
+144,144,Top,"10,00                                          ",Como nuevo                                    , 2022                                             
+145,145,Top,"29,95                                          ",Como nuevo                                    , 2023                                             
+146,146,Pantalon,"5,00                                           ",Como nuevo                                    , 2022                                             
+147,147,Otros,"6,00                                           ",Nuevo con etiquetas                           , 2024                                             
+148,148,Blazer,"20,00                                          ",Como nuevo                                    ,                                                  
+149,149,Calzado,"10,00                                          ",Como nuevo                                    ,                                                  
+150,150,Top,"7,00                                           ",Nuevo con etiquetas                           , 2017                                             
+151,151,Vestido,"39,95                                          ",Nuevo con etiquetas                           ,                                                  
+152,152,Bolso,"15,00                                          ",Como nuevo                                    ,                                                  
+153,153,Top,"8,00                                           ",Nuevo con etiquetas                           ,                                                  
+154,154,Falda,"15,00                                          ",Como nuevo                                    ,                                                  
+155,155,Vestido,"15,00                                          ",Como nuevo                                    ,                                                  
+156,156,Vestido,"90,00                                          ",Nuevo con etiquetas                           , 2023                                             
+157,157,Calzado,"20,00                                          ",Bueno                                         ,                                                  
+158,158,Falda,"20,00                                          ",Nuevo con etiquetas                           , 2020                                             
+159,159,Bolso,"15,00                                          ",Como nuevo                                    , 2021                                             
+160,160,Otros,"8,00                                           ",Bueno                                         ,                                                  
+161,161,Vestido,"25,95                                          ",Nuevo con etiquetas                           ,                                                  
+162,162,Otros,"19,9                                           ",Como nuevo                                    , 2023                                             
+163,163,Otros,"10,00                                          ",Nuevo con etiquetas                           , 2023                                             
+164,164,Vestido,"15,00                                          ",Nuevo con etiquetas                           , 2022                                             
+165,165,Otros,"15,00                                          ",Nuevo con etiquetas                           ,                                                  
+166,166,Falda,"30,00                                          ",Como nuevo                                    ,                                                  
+167,167,Vestido,"50,00                                          ",Nuevo con etiquetas                           ,                                                  
+168,168,Otros,"20,00                                          ",Nuevo con etiquetas                           ,                                                  
+169,169,Chaqueta,"25,00                                          ",Como nuevo                                    , 2023                                             
+170,170,Otros,"10,00                                          ",Nuevo con etiquetas                           , 2023                                             
+171,171,Jeans,"12,00                                          ",Nuevo con etiquetas                           , 2023                                             
+172,172,Blazer,"29,95                                          ",Como nuevo                                    ,                                                  
+173,173,Top,"4,5                                            ",Satisfactorio                                 ,                                                  
+174,174,Pantalon,"20,00                                          ",Como nuevo                                    ,                                                  
+175,175,Otros,"15,00                                          ",Nuevo con etiquetas                           ,                                                  
+176,176,Jeans,"60,00                                          ",Nuevo con etiquetas                           , 2024                                             
+177,177,Blazer,"30,00                                          ",Como nuevo                                    , 2023                                             
+178,178,Mono,"15,00                                          ",Nuevo con etiquetas                           ,                                                  
+179,179,Top,"12,00                                          ",Como nuevo                                    , 2023                                             
+180,180,Jersey,"5,00                                           ",Como nuevo                                    ,                                                  
+181,181,Pantalon,"23,99                                          ",Nuevo con etiquetas                           , 2023                                             
+182,182,Otros,"49,95                                          ",Nuevo con etiquetas                           , 2023                                             
+183,183,Falda,"7,5                                            ",Como nuevo                                    , 2022                                             
+184,184,Vestido,"15,00                                          ",Nuevo con etiquetas                           ,                                                  
+185,185,Otros,"15,99                                          ",Bueno                                         , 2023                                             
+186,186,Calzado,"30,00                                          ",Nuevo con etiquetas                           , 2023                                             
+187,187,Mono,"10,00                                          ",Como nuevo                                    ,                                                  
+188,188,Top,"15,00                                          ",Nuevo con etiquetas                           ,                                                  
+189,189,Falda,"17,00                                          ",Como nuevo                                    ,                                                  
+190,190,Vestido,"15,00                                          ",Como nuevo                                    ,                                                  
+191,191,Otros,"15,95                                          ",Como nuevo                                    ,                                                  
+192,192,Bolso,"10,00                                          ",Como nuevo                                    ,                                                  
+193,193,Vestido,"15,00                                          ",Como nuevo                                    , 2021                                             
+194,194,Vestido,"15,00                                          ",Nuevo con etiquetas                           ,                                                  
+195,195,Bolso,"12,00                                          ",Como nuevo                                    ,                                                  
+196,196,Otros,"10,00                                          ",Como nuevo                                    ,                                                  
+197,197,Vestido,"23,00                                          ",Nuevo con etiquetas                           ,                                                  
+198,198,Calzado,"25,00                                          ",Como nuevo                                    ,                                                  
+199,199,Otros,"7,00                                           ",Nuevo con etiquetas                           ,                                                  
+200,200,Falda,"30,00                                          ",Nuevo con etiquetas                           ,                                                  
+201,201,Jeans,"10,00                                          ",Como nuevo                                    ,                                                  
+202,202,Top,"15,00                                          ",Nuevo con etiquetas                           ,                                                  
+203,203,Falda,"5,00                                           ",Como nuevo                                    ,                                                  
+204,204,Bolso,"30,00                                          ",Como nuevo                                    , 2022                                             
+205,205,Otros,"10,00                                          ",Como nuevo                                    ,                                                  
+206,206,Otros,"30,00                                          ",Como nuevo                                    ,                                                  
+207,207,Top,"15,00                                          ",Como nuevo                                    , 2023                                             
+208,208,Otros,"14,00                                          ",Como nuevo                                    , 2023                                             
+209,209,Vestido,"10,00                                          ",Nuevo con etiquetas                           , 2023                                             
+210,210,Otros,"13,00                                          ",Nuevo con etiquetas                           ,                                                  
+211,211,Camiseta,"10,00                                          ",Nuevo con etiquetas                           ,                                                  
+212,212,Mono,"20,00                                          ",Como nuevo                                    ,                                                  
+213,213,Vestido,"19,00                                          ",Como nuevo                                    ,                                                  
+214,214,Camiseta,"10,00                                          ",Como nuevo                                    , 2021                                             
+215,215,Vestido,"70,00                                          ",Como nuevo                                    , 2023                                             
+216,216,Calzado,"30,00                                          ",Nuevo con etiquetas                           ,                                                  
+217,217,Vestido,"18,00                                          ",Como nuevo                                    ,                                                  
+218,218,Bolso,"8,00                                           ",Bueno                                         , 2023                                             
+219,219,Falda,"23,00                                          ",Como nuevo                                    , 2023                                             
+220,220,Otros,"12,00                                          ",Nuevo con etiquetas                           , 2024                                             
+221,221,Camiseta,"7,00                                           ",Bueno                                         ,                                                  
+222,222,Falda,"12,00                                          ",Como nuevo                                    ,                                                  
+223,223,Falda,"25,00                                          ",Nuevo con etiquetas                           , 2023                                             
+224,224,Top,"5,00                                           ",Como nuevo                                    , 2022                                             
+225,225,Calzado,"29,95                                          ",Como nuevo                                    ,                                                  
+226,226,Chaqueta,"28,00                                          ",Bueno                                         ,                                                  
+227,227,Vestido,"25,00                                          ",Como nuevo                                    ,                                                  
+228,228,Otros,"25,00                                          ",Como nuevo                                    ,                                                  
+229,229,Falda,"15,00                                          ",Como nuevo                                    ,                                                  
+230,230,Falda,"5,00                                           ",Nuevo con etiquetas                           ,                                                  
+231,231,Vestido,"30,00                                          ",Nuevo con etiquetas                           , 2023                                             
+232,232,Vestido,"20,00                                          ",Nuevo con etiquetas                           ,                                                  
+233,233,Jeans,"16,00                                          ",Como nuevo                                    , 2023                                             
+234,234,Top,"10,00                                          ",Como nuevo                                    ,                                                  
+235,235,Pantalon,"25,00                                          ",Como nuevo                                    ,                                                  
+236,236,Top,"5,00                                           ",Como nuevo                                    ,                                                  
+237,237,Bolso,"20,00                                          ",Como nuevo                                    , 2022                                             
+238,238,Vestido,"15,00                                          ",Nuevo con etiquetas                           , 2023                                             
+239,239,Vestido,"21,99                                          ",Nuevo con etiquetas                           ,                                                  
+240,240,Vestido,"25,00                                          ",Nuevo con etiquetas                           , 2024                                             
+241,241,Vestido,"20,00                                          ",Como nuevo                                    , 2023                                             
+242,242,Vestido,"15,00                                          ",Como nuevo                                    , 2023                                             
+243,243,Chaqueta,"15,00                                          ",Como nuevo                                    , 2022                                             
+244,244,Otros,"20,00                                          ",Nuevo con etiquetas                           ,                                                  
+245,245,Otros,"8,00                                           ",Nuevo con etiquetas                           ,                                                  
+246,246,Vestido,"15,00                                          ",Como nuevo                                    ,                                                  
+247,247,Otros,"13,00                                          ",Como nuevo                                    ,                                                  
+248,248,Falda,"15,00                                          ",Como nuevo                                    ,                                                  
+249,249,Otros,"7,00                                           ",Como nuevo                                    ,                                                  
+250,250,Calzado,"20,00                                          ",Como nuevo                                    , 2022                                             
+251,251,Otros,"13,00                                          ",Como nuevo                                    ,                                                  
+252,252,Vestido,"21,00                                          ",Nuevo con etiquetas                           , 2023                                             
+253,253,Pantalon,"25,00                                          ",Nuevo con etiquetas                           , 2024                                             
+254,254,Pantalon,"15,00                                          ",Nuevo con etiquetas                           , 2023                                             
+255,255,Jeans,"17,00                                          ",Bueno                                         , 2022                                             
+256,256,Pantalon,"25,00                                          ",Nuevo con etiquetas                           , 2023                                             
+257,257,Vestido,"18,00                                          ",Nuevo con etiquetas                           ,                                                  
+258,258,Vestido,"20,00                                          ",Como nuevo                                    , 2023                                             
+259,259,Vestido,"36,00                                          ",Nuevo con etiquetas                           , 2023                                             
+260,260,Vestido,"15,00                                          ",Como nuevo                                    ,                                                  
+261,261,Vestido,"25,00                                          ",Como nuevo                                    , 2022                                             
+262,262,Otros,"12,95                                          ",Nuevo con etiquetas                           , 2023                                             
+263,263,Jeans,"8,00                                           ",Como nuevo                                    , 2023                                             
+264,264,Otros,"12,00                                          ",Nuevo con etiquetas                           , 2022                                             
+265,265,Top,"15,00                                          ",Como nuevo                                    ,                                                  
+266,266,Falda,"15,00                                          ",Como nuevo                                    ,                                                  

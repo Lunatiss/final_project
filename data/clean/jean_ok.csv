@@ -1,0 +1,388 @@
+,index,product_name,price,made_in,standard_soc_ma,algodon,poliester,elastano,elastomultiester,liocel,lino,main_txt,total_composition,1_composition,second_txt,2_composition,OCS,RCS,txt_recycled,rec_poliester,rec_cotton,cotton_OCS,certificacion,porcentaje,intertek
+0,0,Jean ZW Collection,35.95,Turquia,True,0.91,0.07,0.02,,,,algodon,3,0.91,poliester,0.07,OCS,RCS,,0.07,0.2,0.71,OCS,0.71,True
+3,3,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+4,4,Jean Temporada,25.95,Pakistan,True,0.95,,0.01,0.04,,,algodon,3,0.95,elastomultiester,0.04,OCS,RCS,,,0.2,0.75,OCS,0.75,True
+5,5,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+6,6,Jean ZW Collection,29.95,Tunez,True,0.91,0.07,0.02,,,,algodon,3,0.91,poliester,0.07,OCS,RCS,,0.07,0.2,0.71,OCS,0.71,True
+7,7,Jean ZW Collection,29.95,Turquia,True,0.95,0.03,0.02,,,,algodon,3,0.95,poliester,0.03,None,None,,,,,,,False
+8,8,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+9,9,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+10,10,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+11,11,Jean Temporada,25.95,Pakistan,True,0.95,,0.01,0.04,,,algodon,3,0.95,elastomultiester,0.04,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+12,12,Jean Wide Leg,29.95,Bangladesh,True,0.6,,,,0.4,,algodon,2,0.6,liocel,0.4,OCS,RCS,,,0.12,0.48,OCS,0.48,True
+13,13,Jean Wide Leg,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,None,,,,0.99,OCS,0.99,True
+14,14,Jean Temporada,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,None,,,,0.99,OCS,0.99,True
+15,15,Jean Temporada,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,None,,,,0.99,OCS,0.99,True
+16,16,Jean Wide Leg,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+17,17,Jean Rectos,29.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+18,18,Jean ZW Collection,29.95,Tunez,True,0.91,0.07,0.02,,,,algodon,3,0.91,poliester,0.07,OCS,RCS,,0.07,0.2,0.71,OCS,0.71,True
+19,19,Jean ZW Collection,29.95,Tunez,True,0.91,0.07,0.02,,,,algodon,3,0.91,poliester,0.07,OCS,RCS,,0.07,0.2,0.71,OCS,0.71,True
+20,20,Jean Temporada,25.95,Pakistan,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,OCS,RCS,,,0.15,0.5,OCS,0.5,True
+21,21,Jean Temporada,25.95,Pakistan,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,OCS,RCS,,,0.15,0.5,OCS,0.5,True
+22,22,Jean Temporada,25.95,Pakistan,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,OCS,RCS,,,0.15,0.5,OCS,0.5,True
+23,23,Jean Temporada,25.95,Pakistan,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,OCS,RCS,,,0.15,0.5,OCS,0.5,True
+24,24,Jean Temporada,29.95,Egipto,True,0.82,0.17,0.01,,,,algodon,3,0.82,poliester,0.17,OCS,None,,,,0.82,OCS,0.82,True
+25,25,Jean ZW Collection,29.95,Tunez,True,0.87,0.11,0.02,,,,algodon,3,0.87,poliester,0.11,OCS,RCS,,0.07,0.2,0.67,OCS,0.67,True
+26,26,Jean ZW Collection,29.95,Tunez,True,0.9,0.08,0.02,,,,algodon,3,0.9,poliester,0.08,None,None,,,,,,,False
+27,27,Jean ZW Collection,29.95,Tunez,True,0.91,0.07,0.02,,,,algodon,3,0.91,poliester,0.07,OCS,RCS,,0.07,0.2,0.71,OCS,0.71,True
+28,28,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+29,29,Jean Skinny,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+30,30,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+31,31,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+32,32,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+33,33,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+34,34,Jean Temporada,25.95,Pakistan,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,OCS,RCS,,,0.15,0.5,OCS,0.5,True
+35,35,Jean Temporada,35.95,Turquia,True,0.42,,,,0.58,,liocel,2,0.58,algodon,0.42,None,None,,,,,,,False
+36,36,Jean Skinny,19.95,Pakistan,True,0.89,0.08,0.03,,,,algodon,3,0.89,poliester,0.08,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+37,37,Jean ZW Collection,29.95,Pakistan,True,0.93,,0.02,0.05,,,algodon,3,0.93,elastomultiester,0.05,OCS,RCS,,,0.18,0.75,OCS,0.75,True
+38,38,Jean ZW Collection,29.95,Pakistan,True,0.93,,0.02,0.05,,,algodon,3,0.93,elastomultiester,0.05,OCS,None,,,,0.51,OCS,0.51,True
+39,39,Jean ZW Collection,29.95,Pakistan,True,0.93,,0.02,0.05,,,algodon,3,0.93,elastomultiester,0.05,OCS,None,,,,0.51,OCS,0.51,True
+40,40,Jean ZW Collection,29.95,Tunez,True,0.91,0.07,0.02,,,,algodon,3,0.91,poliester,0.07,OCS,RCS,,0.07,0.2,0.71,OCS,0.71,True
+41,41,Jean ZW Collection,29.95,Pakistan,True,0.93,,0.02,0.05,,,algodon,3,0.93,elastomultiester,0.05,OCS,RCS,,,0.18,0.75,OCS,0.75,True
+42,42,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+43,43,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+44,44,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.3,0.7,OCS,0.7,True
+45,45,Jean Temporada,25.95,Pakistan,True,0.95,,0.01,0.04,,,algodon,3,0.95,elastomultiester,0.04,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+46,46,Jean Temporada,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+47,47,Jean Temporada,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+48,48,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+49,49,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+50,0,Jean Skinny,19.95,Pakistan,True,0.89,0.08,0.03,,,,algodon,3,0.89,poliester,0.08,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+51,1,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.22,0.78,OCS,0.78,True
+52,2,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+53,3,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+54,4,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+55,5,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+56,6,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+57,7,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+58,8,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.22,0.78,OCS,0.78,True
+59,9,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+60,10,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+61,11,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+62,12,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+63,13,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+64,14,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+65,15,Jean Rectos,29.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+66,16,Jean Mom,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+67,17,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+68,18,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+69,19,Jean ZW Collection,29.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+70,20,Jean ZW Collection,59.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,0.6,OCS,0.6,True
+71,21,Jean ZW Collection,59.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,0.6,OCS,0.6,True
+72,22,Jean Temporada,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+73,23,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+74,24,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+75,25,Jean Rectos,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+76,26,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.25,0.75,OCS,0.75,True
+77,27,Jean Temporada,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.3,0.7,OCS,0.7,True
+78,28,Jean Temporada,25.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.55,OCS,0.55,True
+79,29,Jean ZW Collection,29.95,Egipto,True,0.84,,0.01,,0.15,,algodon,3,0.84,liocel,0.15,None,None,,,,,,,False
+80,30,Jean ZW Collection,29.95,Egipto,True,0.82,0.17,0.01,,,,algodon,3,0.82,poliester,0.17,OCS,RCS,,0.17,,0.82,OCS,0.82,True
+81,31,Jean ZW Collection,29.95,Tunez,True,0.91,0.07,0.02,,,,algodon,3,0.91,poliester,0.07,OCS,RCS,,0.07,0.2,0.71,OCS,0.71,True
+82,32,Jean ZW Collection,29.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+83,33,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+84,34,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+85,35,Jean Temporada,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+86,36,Jean Temporada,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+87,37,Jean Temporada,25.95,Pakistan,True,0.95,,0.01,0.04,,,algodon,3,0.95,elastomultiester,0.04,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+88,38,Jean Temporada,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+91,41,Jean Temporada,25.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.55,OCS,0.55,True
+92,42,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+94,44,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+95,45,Jean Rectos,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+96,46,Jean Temporada,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+97,47,Jean Temporada,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+98,48,Jean Temporada,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+99,49,Jean Rectos,25.95,Camboya,True,0.45,0.55,,,,,poliester,2,0.55,algodon,0.45,OCS,RCS,,0.55,,0.45,OCS,0.45,True
+100,50,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+101,51,Jean Rectos,49.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+102,52,Jean ZW Collection,39.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,None,,,,0.99,OCS,0.99,True
+103,53,Jean Rectos,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+104,54,Jean Temporada,29.95,Bangladesh,True,0.72,,,,0.28,,algodon,2,0.72,liocel,0.28,OCS,RCS,,,0.12,0.6,OCS,0.6,True
+105,55,Jean Temporada,29.95,Bangladesh,True,0.72,,,,0.28,,algodon,2,0.72,liocel,0.28,OCS,RCS,,,0.12,0.6,OCS,0.6,True
+106,56,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.15,0.85,OCS,0.85,True
+110,60,Jean ZW Collection,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+112,62,Jean Skinny,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+113,63,Jean Skinny,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+114,64,Jean Temporada,39.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+115,65,Jean Temporada,35.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+116,66,Jean Wide Leg,39.95,Turquia,True,0.82,,,,0.18,,algodon,2,0.82,liocel,0.18,OCS,RCS,,,0.3,0.3,OCS,0.3,True
+117,67,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+118,68,Jean Temporada,29.95,Bangladesh,True,0.17,,,,0.57,0.26,liocel,3,0.57,lino,0.26,None,None,,,,,,,False
+119,69,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.3,0.7,OCS,0.7,True
+120,70,Jean Rectos,25.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.55,OCS,0.55,True
+121,71,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+122,72,Jean Wide Leg,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.15,,OCS,,True
+123,73,Jean ZW Collection,29.95,Egipto,True,0.93,,0.02,0.05,,,algodon,3,0.93,elastomultiester,0.05,OCS,None,,,,0.51,OCS,0.51,True
+124,74,Jean ZW Collection,29.95,Pakistan,True,0.93,,0.02,0.05,,,algodon,3,0.93,elastomultiester,0.05,OCS,None,,,,0.51,OCS,0.51,True
+125,75,Jean ZW Collection,29.95,Egipto,True,0.92,,0.02,0.06,,,algodon,3,0.92,elastomultiester,0.06,OCS,None,,,,0.51,OCS,0.51,True
+126,76,Jean Temporada,35.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+127,77,Jean Temporada,39.95,Turquia,True,0.62,,,,0.38,,algodon,2,0.62,liocel,0.38,None,RCS,,,0.2,,OCS,,True
+128,78,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+129,79,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+130,80,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+131,81,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+132,82,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+133,83,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+134,84,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+135,85,Jean Temporada,29.95,Bangladesh,True,0.78,,,,0.22,,algodon,2,0.78,liocel,0.22,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+136,86,Jean Temporada,29.95,Bangladesh,True,0.78,,,,0.22,,algodon,2,0.78,liocel,0.22,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+137,87,Jean Temporada,39.95,Bangladesh,True,0.8,,,,0.2,,algodon,2,0.8,liocel,0.2,None,None,,,,,,,False
+138,88,Jean Temporada,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+139,89,Jean Wide Leg,35.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+141,91,Jean Temporada,29.95,Bangladesh,True,0.72,,,,0.28,,algodon,2,0.72,liocel,0.28,OCS,RCS,,,0.12,0.6,OCS,0.6,True
+142,92,Jean Temporada,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+143,93,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+144,94,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+145,95,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+146,96,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+147,97,Jean ZW Collection,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+148,98,Jean ZW Collection,29.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+149,99,Jean Rectos,29.95,Egipto,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+150,100,Jean Rectos,29.95,Egipto,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+151,101,Jean Rectos,29.95,Egipto,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+152,102,Jean Mom,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+153,103,Jean Mom,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+154,104,Jean Mom,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+155,105,Jean Skinny,19.95,Pakistan,True,0.89,0.08,0.03,,,,algodon,3,0.89,poliester,0.08,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+156,106,Jean Skinny,19.95,Pakistan,True,0.89,0.08,0.03,,,,algodon,3,0.89,poliester,0.08,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+157,107,Jean Skinny,19.95,Pakistan,True,0.89,0.08,0.03,,,,algodon,3,0.89,poliester,0.08,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+158,108,Jean Skinny,19.95,Pakistan,True,0.89,0.08,0.03,,,,algodon,3,0.89,poliester,0.08,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+159,109,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+160,110,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+161,111,Jean Temporada,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+162,112,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+163,113,Jean Temporada,39.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+164,114,Jean Temporada,29.95,Pakistan,True,0.87,0.11,0.02,,,,algodon,3,0.87,poliester,0.11,OCS,RCS,,0.11,0.2,0.67,OCS,0.67,True
+165,115,Jean ZW Collection,29.95,Tunez,True,0.91,0.07,0.02,,,,algodon,3,0.91,poliester,0.07,OCS,RCS,,0.07,0.2,0.71,OCS,0.71,True
+166,116,Jean Rectos,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+167,117,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+168,118,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.22,0.78,OCS,0.78,True
+169,119,Jean Temporada,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+170,120,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+171,121,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+172,122,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+173,123,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+174,124,Jean Wide Leg,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+175,125,Jean Wide Leg,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+176,126,Jean ZW Collection,29.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+177,127,Jean ZW Collection,29.95,Pakistan,True,0.94,,0.02,0.04,,,algodon,3,0.94,elastomultiester,0.04,OCS,RCS,,,0.19,0.75,OCS,0.75,True
+178,128,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.22,0.78,OCS,0.78,True
+179,129,Jean Mom,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+180,130,Jean Mom,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+181,131,Jean ZW Collection,39.95,Pakistan,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+182,132,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+183,133,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+184,134,Jean Mom,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.15,0.85,OCS,0.85,True
+185,135,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.25,0.75,OCS,0.75,True
+186,136,Jean Wide Leg,29.95,Turquia,True,0.97,,0.03,,,,algodon,2,0.97,elastano,0.03,None,None,,,,,,,False
+187,137,Jean ZW Collection,29.95,Pakistan,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.25,0.75,OCS,0.75,True
+188,138,Jean ZW Collection,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,RCS,,,0.2,,OCS,,True
+189,139,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+190,140,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+191,141,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,RCS,,,0.15,,OCS,,True
+192,142,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,RCS,,,0.15,,OCS,,True
+193,143,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,RCS,,,0.15,,OCS,,True
+194,144,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,RCS,,,0.15,,OCS,,True
+195,145,Jean Rectos,39.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.3,0.7,OCS,0.7,True
+196,146,Jean ZW Collection,29.95,Tunez,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+197,147,Jean ZW Collection,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+198,148,Jean Temporada,29.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+199,149,Jean Temporada,29.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+200,150,Jean ZW Collection,29.95,Egipto,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+201,151,Jean ZW Collection,29.95,Tunez,True,0.9,0.08,0.02,,,,algodon,3,0.9,poliester,0.08,None,None,,,,,,,False
+202,152,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+203,153,Jean Rectos,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+204,154,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+205,155,Jean Temporada,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+206,156,Jean Temporada,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+207,157,Jean Temporada,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+209,159,Jean ZW Collection,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.25,,OCS,,True
+210,160,Jean Rectos,39.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.3,0.7,OCS,0.7,True
+211,161,Jean Temporada,25.95,Pakistan,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,OCS,RCS,,,0.15,0.5,OCS,0.5,True
+212,162,Jean Temporada,25.95,Pakistan,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,OCS,RCS,,,0.15,0.5,OCS,0.5,True
+213,163,Jean Temporada,25.95,Pakistan,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,OCS,RCS,,,0.15,0.5,OCS,0.5,True
+214,164,Jean Skinny,25.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+215,165,Jean Wide Leg,35.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+216,166,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+217,167,Jean Temporada,25.95,Pakistan,True,0.95,,0.01,0.04,,,algodon,3,0.95,elastomultiester,0.04,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+218,168,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+219,169,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+220,170,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+221,171,Jean ZW Collection,29.95,Egipto,True,0.94,,0.02,0.04,,,algodon,3,0.94,elastomultiester,0.04,None,None,,,,,,,False
+222,172,Jean ZW Collection,29.95,Turquia,True,0.95,0.03,0.02,,,,algodon,3,0.95,poliester,0.03,OCS,None,,,,0.5,OCS,0.5,True
+223,173,Jean ZW Collection,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+224,174,Jean ZW Collection,29.95,Egipto,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+225,175,Jean ZW Collection,29.95,Tunez,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+226,176,Jean Wide Leg,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+227,177,Jean Wide Leg,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+228,178,Jean ZW Collection,39.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+229,179,Jean ZW Collection,29.95,Tunez,True,0.91,0.07,0.02,,,,algodon,3,0.91,poliester,0.07,OCS,RCS,,0.07,0.2,0.71,OCS,0.71,True
+230,180,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+231,181,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+233,183,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+234,184,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+235,185,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+236,186,Jean Rectos,35.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.15,0.85,OCS,0.85,True
+237,187,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+238,188,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+239,189,Jean Wide Leg,29.95,Pakistan,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+240,190,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.22,0.78,OCS,0.78,True
+241,191,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+242,192,Jean Rectos,29.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+243,193,Jean Temporada,35.95,Bangladesh,True,0.6,,,,0.4,,algodon,2,0.6,liocel,0.4,None,None,,,,,,,False
+244,194,Jean Temporada,39.95,Bangladesh,True,0.82,,,,0.18,,algodon,2,0.82,liocel,0.18,OCS,None,,,,0.64,OCS,0.64,True
+245,195,Jean Temporada,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+246,196,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+247,197,Jean ZW Collection,29.95,Pakistan,True,0.94,,0.02,0.04,,,algodon,3,0.94,elastomultiester,0.04,OCS,RCS,,,0.19,0.75,OCS,0.75,True
+248,198,Jean ZW Collection,29.95,Pakistan,True,0.94,,0.02,0.04,,,algodon,3,0.94,elastomultiester,0.04,OCS,RCS,,,0.19,0.75,OCS,0.75,True
+249,0,Jean ZW Collection,29.95,Pakistan,True,0.94,,0.02,0.04,,,algodon,3,0.94,elastomultiester,0.04,OCS,None,,,,0.51,OCS,0.51,True
+250,1,Jean Rectos,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,RCS,,,0.2,,OCS,,True
+251,2,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+252,3,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+253,4,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+254,5,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.22,0.78,OCS,0.78,True
+255,6,Jean Temporada,29.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,RCS,,,0.2,,OCS,,True
+256,7,Jean Temporada,25.95,Pakistan,True,0.95,,0.01,0.04,,,algodon,3,0.95,elastomultiester,0.04,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+257,8,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+258,9,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+259,10,Jean Temporada,29.95,Turquia,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,None,None,,,,,,,False
+260,11,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+261,12,Jean Rectos,39.95,Pakistan,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+262,13,Jean Temporada,39.95,Turquia,True,0.62,,,,0.38,,algodon,2,0.62,liocel,0.38,OCS,RCS,,,0.2,0.42,OCS,0.42,True
+263,14,Jean Rectos,29.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.15,0.5,OCS,0.5,True
+264,15,Jean Rectos,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+265,16,Jean Rectos,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+266,17,Jean Rectos,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+267,18,Jean Wide Leg,29.95,Turquia,True,0.82,,,,0.18,,algodon,2,0.82,liocel,0.18,None,RCS,,,0.2,,OCS,,True
+268,19,Jean Wide Leg,29.95,Turquia,True,0.82,,,,0.18,,algodon,2,0.82,liocel,0.18,None,RCS,,,0.2,,OCS,,True
+269,20,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+270,21,Jean Wide Leg,29.95,Turquia,True,0.82,,,,0.18,,algodon,2,0.82,liocel,0.18,None,RCS,,,0.2,,OCS,,True
+271,22,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+272,23,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+273,24,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,0.6,OCS,0.6,True
+274,25,Jean Rectos,59.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+275,26,Jean Temporada,35.95,Turquia,True,0.42,,,,0.58,,liocel,2,0.58,algodon,0.42,None,None,,,,,,,False
+276,27,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.15,,OCS,,True
+277,28,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.22,0.78,OCS,0.78,True
+278,29,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+279,30,Jean Temporada,29.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,RCS,,,0.2,,OCS,,True
+280,31,Jean Temporada,25.95,Turquia,True,0.92,0.06,0.02,,,,algodon,3,0.92,poliester,0.06,OCS,RCS,,,0.25,0.67,OCS,0.67,True
+281,32,Jean Temporada,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+282,33,Jean Temporada,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+283,34,Jean Temporada,39.95,Bangladesh,True,0.82,,,,0.18,,algodon,2,0.82,liocel,0.18,None,None,,,,,,,False
+284,35,Jean Temporada,35.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+285,36,Jean Wide Leg,49.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+286,37,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+287,38,Jean Temporada,35.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.3,0.3,OCS,0.3,True
+288,39,Jean ZW Collection,29.95,Egipto,True,0.82,0.17,0.01,,,,algodon,3,0.82,poliester,0.17,OCS,RCS,,0.17,,0.82,OCS,0.82,True
+289,40,Jean Temporada,29.95,Turquia,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,None,None,,,,,,,False
+290,41,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+291,42,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+292,43,Jean Temporada,29.95,Marruecos,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,OCS,None,,,,0.98,OCS,0.98,True
+293,44,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+294,45,Jean Temporada,39.95,Turquia,True,0.8,,,,0.2,,algodon,2,0.8,liocel,0.2,None,RCS,,,0.2,,OCS,,True
+295,46,Jean Temporada,39.95,Bangladesh,True,0.8,,,,0.2,,algodon,2,0.8,liocel,0.2,None,None,,,,,,,False
+296,47,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+297,48,Jean Wide Leg,49.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+298,49,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+299,50,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+300,51,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+301,52,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+302,53,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+303,54,Jean Mom,25.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+304,55,Jean Wide Leg,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,RCS,,,0.2,,OCS,,True
+305,56,Jean Wide Leg,29.95,Turquia,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,RCS,,,0.2,,OCS,,True
+306,57,Jean Mom,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+307,58,Jean Mom,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+308,59,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+309,60,Jean Rectos,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+311,62,Jean Temporada,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+312,63,Jean Wide Leg,29.95,Turquia,True,0.82,,,,0.18,,algodon,2,0.82,liocel,0.18,None,RCS,,,0.2,,OCS,,True
+313,64,Jean Rectos,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+314,65,Jean Rectos,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.51,OCS,0.51,True
+315,66,Jean Temporada,29.95,Bangladesh,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,None,None,,,,,,,False
+316,67,Jean Temporada,39.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+317,68,Jean Skinny,19.95,Bangladesh,True,0.95,,0.02,0.03,,,algodon,3,0.95,elastomultiester,0.03,None,None,,,,,,,False
+318,69,Jean Skinny,19.95,Bangladesh,True,0.95,,0.02,0.03,,,algodon,3,0.95,elastomultiester,0.03,None,None,,,,,,,False
+319,70,Jean Skinny,19.95,Bangladesh,True,0.95,,0.02,0.03,,,algodon,3,0.95,elastomultiester,0.03,None,None,,,,,,,False
+320,71,Jean Skinny,19.95,Bangladesh,True,0.95,,0.02,0.03,,,algodon,3,0.95,elastomultiester,0.03,None,None,,,,,,,False
+321,72,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+322,73,Jean Temporada,29.95,Pakistan,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,0.6,OCS,0.6,True
+323,74,Jean Mom,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+324,75,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+325,76,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+326,77,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+327,78,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.22,0.78,OCS,0.78,True
+328,79,Jean Skinny,19.95,Pakistan,True,0.89,0.08,0.03,,,,algodon,3,0.89,poliester,0.08,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+329,80,Jean Skinny,19.95,Pakistan,True,0.89,0.08,0.03,,,,algodon,3,0.89,poliester,0.08,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+330,81,Jean ZW Collection,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+331,82,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+332,83,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+333,84,Jean Rectos,25.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.5,OCS,0.5,True
+334,85,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.22,0.78,OCS,0.78,True
+335,86,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+336,87,Jean Temporada,35.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.3,0.3,OCS,0.3,True
+337,88,Jean Rectos,59.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.15,,OCS,,True
+338,89,Jean ZW Collection,39.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+339,90,Jean Rectos,39.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+340,91,Jean Temporada,39.95,Pakistan,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,None,None,,,,,,,False
+341,92,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+342,93,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+343,94,Jean ZW Collection,29.95,Egipto,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+344,95,Jean ZW Collection,29.95,Turquia,True,0.92,0.06,0.02,,,,algodon,3,0.92,poliester,0.06,OCS,RCS,,,0.2,0.72,OCS,0.72,True
+345,96,Jean ZW Collection,29.95,Egipto,True,0.94,,0.02,0.04,,,algodon,3,0.94,elastomultiester,0.04,None,None,,,,,,,False
+346,97,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+347,98,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+348,99,Jean ZW Collection,39.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+349,100,Jean ZW Collection,39.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+350,101,Jean ZW Collection,39.95,Pakistan,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+351,102,Jean Temporada,35.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+352,103,Jean Wide Leg,35.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+353,104,Jean Wide Leg,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+354,105,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+355,106,Jean Temporada,59.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+356,107,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+357,108,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,0.5,OCS,0.5,True
+358,109,Jean Rectos,29.95,Egipto,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+359,110,Jean Wide Leg,39.95,Turquia,True,0.82,,,,0.18,,algodon,2,0.82,liocel,0.18,None,None,,,,,,,False
+360,111,Jean ZW Collection,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+361,112,Jean ZW Collection,39.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+362,113,Jean Skinny,22.95,Bangladesh,True,0.89,0.08,0.03,,,,algodon,3,0.89,poliester,0.08,OCS,RCS,,,0.15,0.6,OCS,0.6,True
+363,114,Jean ZW Collection,29.95,Pakistan,True,0.93,,0.02,0.05,,,algodon,3,0.93,elastomultiester,0.05,OCS,None,,,,0.51,OCS,0.51,True
+364,115,Jean ZW Collection,29.95,Tunez,True,1.0,,,,,,algodon,1,1.0,,,None,RCS,,,0.2,,OCS,,True
+365,116,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+366,117,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+367,118,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+368,119,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+369,120,Jean ZW Collection,29.95,Pakistan,True,0.99,,0.01,,,,algodon,2,0.99,elastano,0.01,OCS,RCS,,,0.2,0.79,OCS,0.79,True
+370,121,Jean ZW Collection,29.95,Egipto,True,0.92,,0.02,0.06,,,algodon,3,0.92,elastomultiester,0.06,None,None,,,,,,,False
+371,122,Jean ZW Collection,29.95,Tunez,True,0.91,0.07,0.02,,,,algodon,3,0.91,poliester,0.07,None,RCS,,,0.2,,OCS,,True
+372,123,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+373,124,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+374,125,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+375,126,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+376,127,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+377,128,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+378,129,Jean Temporada,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+379,130,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+380,131,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+381,132,Jean Rectos,29.95,Egipto,True,0.88,,,,,0.12,algodon,2,0.88,lino,0.12,OCS,None,,,,0.88,OCS,0.88,True
+382,133,Jean Rectos,29.95,Egipto,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+383,134,Jean Rectos,29.95,Egipto,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.8,OCS,0.8,True
+384,135,Jean Temporada,39.95,Bangladesh,True,0.82,,,,0.18,,algodon,2,0.82,liocel,0.18,OCS,None,,,,0.64,OCS,0.64,True
+385,136,Jean Temporada,39.95,Bangladesh,True,0.72,,,,0.28,,algodon,2,0.72,liocel,0.28,OCS,RCS,,,0.12,0.6,OCS,0.6,True
+386,137,Jean Temporada,39.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+387,138,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+388,139,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+389,140,Jean Rectos,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.2,0.6,OCS,0.6,True
+390,141,Jean Temporada,29.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+391,142,Jean Rectos,25.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.05,0.5,OCS,0.5,True
+392,143,Jean Temporada,39.95,Bangladesh,True,0.82,,,,0.18,,algodon,2,0.82,liocel,0.18,OCS,None,,,,0.64,OCS,0.64,True
+393,144,Jean Temporada,35.95,Bangladesh,True,1.0,,,,,,algodon,1,1.0,,,None,None,,,,,,,False
+394,145,Jean ZW Collection,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+395,146,Jean ZW Collection,29.95,Turquia,True,1.0,,,,,,algodon,1,1.0,,,OCS,None,,,,1.0,OCS,1.0,True
+396,147,Jean ZW Collection,29.95,Pakistan,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,OCS,None,,,,0.5,OCS,0.5,True
+397,148,Jean ZW Collection,29.95,Pakistan,True,1.0,,,,,,algodon,1,1.0,,,OCS,RCS,,,0.25,0.75,OCS,0.75,True
+398,149,Jean Temporada,29.95,Tunez,True,0.91,0.07,0.02,,,,algodon,3,0.91,poliester,0.07,None,RCS,,,0.2,,OCS,,True
+399,150,Jean ZW Collection,29.95,Pakistan,True,0.98,,0.02,,,,algodon,2,0.98,elastano,0.02,None,None,,,,,,,False
