@@ -15,8 +15,9 @@
 - `warnings`
 
 ## 2. Data source:
-Web scraping on ZARA's website using selenium for dinamic webpage. Click here to see the raw data: [data/raw](data/raw)
-For the scrip about web scrapping of Zara: [click here](notebook_web_scraping.ipynb) 
+Web scraping on ZARA's website using selenium for dinamic webpage. 
+- Click here to see the raw data: [data/raw](data/raw)
+- For the scrip about web scrapping of Zara: [click here](notebook_web_scraping.ipynb) 
     
 
 ## 3. Data Cleaning Steps: 
