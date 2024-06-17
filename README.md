@@ -7,9 +7,9 @@
 This project analyzes Zara's website to explore the question: **What is Zara doing to be more sustainable?**
 - The company has included long legends in the description on their products about how they work in accordance with social and environmental standards, the material of the garments, the percentage of recycled and organic materials, the origin of the products and sustainable certifications in case the products meet certain requirements.
 - Then you can find two types of sustainable certifications on their products:
-**OCS:** A certification granted by an independent entity and only for products that contain at least 5% of organic material. 
-**RCS:** also granted by an independent organization and is only for products with recycled material if the recycled material meets the ISO definition of recycled.
-**ZARA PRE-OWNED:** The last initiatives that the company included and it aligns with the concept of circular economy to maximize the product life for as long as possible. Here the brand allows customers to resell, donate and repair products.
+- **OCS:** A certification granted by an independent entity and only for products that contain at least 5% of organic material. 
+- **RCS:** also granted by an independent organization and is only for products with recycled material if the recycled material meets the ISO definition of recycled.
+- **ZARA PRE-OWNED:** The last initiatives that the company included and it aligns with the concept of circular economy to maximize the product life for as long as possible. Here the brand allows customers to resell, donate and repair products.
 
 ## Objectives:
 1. Evaluate the inclusion of products with OCS and RCS certifications in the website to determine how many products have certifications and assess the company's environmental commitment.
