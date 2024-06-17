@@ -4,6 +4,19 @@
   
 ![Descripción opcional](img/1.png)
 
+## Tools:
+**Python:**
+- `selenium`
+- `beautifulsoup`
+- `datetime`
+- `pandas`
+- `seaborn`
+- `matplotlib`
+- `numpy`
+- `warnings`
+
+**Tableau**
+
 This project analyzes Zara's website to explore the question: **What is Zara doing to be more sustainable?**
 - The company has included long legends in the description on their products about how they work in accordance with social and environmental standards, the material of the garments, the percentage of recycled and organic materials, the origin of the products and sustainable certifications in case the products meet certain requirements.
 - Then you can find two types of sustainable certifications on their products:
@@ -56,14 +69,3 @@ And finally, the popularity of dresses in this category suggests a tendency to b
 
 In conclusion, I consider it a good practice to include this type of certification on products to contribute to a more sustainable textile industry and a consumer more aware of the environmental impact of this industry. Although there is still a long way to go, it is a start towards greater transparency in the supply chain that we will see as it continues. 
 
-## Tools:
-**Python:**
-- `selenium`
-- `beautifulsoup`
-- `datetime`
-- `pandas`
-- `seaborn`
-- `matplotlib`
-- `numpy`
-- `warnings`
-**Tableau**
