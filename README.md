@@ -29,7 +29,7 @@ Specifically, there was a column containing lists, which required special handli
 - **Recycled Materials**: Further separated into categories like recycled cotton, recycled polyester, recycled polyamide, etc.
 - **Percentage Composition**: Assigned the percentage of each material's composition in accordance with each row.
 - **OCS and RCS**: Created columns for OCS (Organic Content Standard) and RCS (Recycled Content Standard) based on the descriptions obtained during scraping.
-- Click here to see the data after data cleaning: [data/raw](data/clean)
+- Click here to see the data after data cleaning: [data/clean](data/clean)
 
 **Data Visualization:**  Find visualization in Tableau: [Click here:](https://public.tableau.com/app/profile/luna.tissera/viz/Tableau_ZARA_2/Historia1?publish=yes) <br>
 
