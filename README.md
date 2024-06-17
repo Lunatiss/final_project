@@ -19,7 +19,6 @@ This project analyzes Zara's website to explore the question: **What is Zara doi
 ## Workflow:
 **Data Collection:** Web scraping on ZARA's website using selenium for dinamic webpage to obtain product name, price & description. 
 - For the scrip about web scrapping of Zara: [click here](notebook_web_scraping.ipynb)
-- 
 - Click here to see the raw data: [data/raw](data/raw)
 
 **Data Cleaning:** Since the data was obtained through web scraping, the cleaning process was quite complex. 
