@@ -31,11 +31,11 @@ This project analyzes Zara's website to explore the question: **What is Zara doi
 **Tableau**
 
 ## Workflow:
-**Data Collection:** Web scraping on ZARA's website using selenium for dinamic webpage to obtain product name, price & description. 
+**1. Data Collection:** Web scraping on ZARA's website using selenium for dinamic webpage to obtain product name, price & description. 
 - For the scrip about web scrapping of Zara: [click here](notebook_web_scraping)
 - Click here to see the raw data: [data/raw](data/raw)
 
-**Data Cleaning:** Since the data was obtained through web scraping, the cleaning process was quite complex. 
+**2. Data Cleaning:** Since the data was obtained through web scraping, the cleaning process was quite complex. 
 Specifically, there was a column containing lists, which required special handling. We created a function to iterate over all the elements of these lists, access their components, transform them into strings, and then assign the relevant information to new columns:
 **All the information was over Description Column (correponding on section view more in the web)**:
 - **Made_in**: Extracted the origin of the products from the description.
@@ -45,11 +45,11 @@ Specifically, there was a column containing lists, which required special handli
 - **OCS and RCS**: Created columns for OCS (Organic Content Standard) and RCS (Recycled Content Standard) based on the descriptions obtained during scraping.
 - Click here to see the data after data cleaning: [data/clean](data/clean)
 
-**Data Visualization:**  Find visualization in Tableau: [Click here:](https://public.tableau.com/app/profile/luna.tissera/viz/Tableau_ZARA_2/Historia1?publish=yes) <br>
+**3. Data Visualization:**  Find visualization in Tableau: [Click here:](https://public.tableau.com/app/profile/luna.tissera/viz/Tableau_ZARA_2/Historia1?publish=yes) <br>
 
 ## Conclutions based on data: 
 
-**TSHIRT SECTION**:
+**T-SHIRTS SECTION**:
 This section provides a detailed overview of the analysis of the T-shirt category. And  here we note that the products with the most certifications are seasonal T-shirts, because of the high quantity of this type of product available on the website due the summer season.
 It is important to note that the main composition of the T-shirts is cotton and most of them contain organic or recycled cotton, but not all of them have sustainable certifications. Only 26% of the products have at least one of these certifications.
 In this chart, we can see that the products have more OCS certification than RCS certification but also there are a lot of t-shirts with recycled or organic material without certification.
