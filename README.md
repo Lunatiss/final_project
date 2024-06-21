@@ -1,6 +1,6 @@
 # Toward Sustainable Fashion?
 > _A case study on ZARA's sustainability practices._
-> This work was my final project of the Data Analyst Bootcamp. It was chosen as the best project!
+> This work was my final project of the Data Analyst Bootcamp. 
   
 ![Descripción opcional](img/1.png)
 
