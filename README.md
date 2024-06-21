@@ -4,19 +4,7 @@
   
 ![Descripción opcional](img/1.png)
 
-## Tools:
-**Python:**
-- `selenium`
-- `beautifulsoup`
-- `datetime`
-- `pandas`
-- `seaborn`
-- `matplotlib`
-- `numpy`
-- `warnings`
-
-**Tableau**
-
+## Overview
 This project analyzes Zara's website to explore the question: **What is Zara doing to be more sustainable?**
 - The company has included long legends in the description on their products about how they work in accordance with social and environmental standards, the material of the garments, the percentage of recycled and organic materials, the origin of the products and sustainable certifications in case the products meet certain requirements.
 - Then you can find two types of sustainable certifications on their products:
@@ -28,6 +16,19 @@ This project analyzes Zara's website to explore the question: **What is Zara doi
 1. Evaluate the inclusion of products with OCS and RCS certifications in the website to determine how many products have certifications and assess the company's environmental commitment.
 2. Analyze the prices of products based on the certifications they contain.
 3. Analyze the trends of consumers who sell their products in the pre-owned section to understand consumer behavior within the product lifecycle.
+
+## Tools:
+**Python Libraries:**
+- `selenium`
+- `beautifulsoup`
+- `datetime`
+- `pandas`
+- `seaborn`
+- `matplotlib`
+- `numpy`
+- `warnings`
+
+**Tableau**
 
 ## Workflow:
 **Data Collection:** Web scraping on ZARA's website using selenium for dinamic webpage to obtain product name, price & description. 
